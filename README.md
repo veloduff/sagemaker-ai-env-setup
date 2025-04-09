@@ -1,4 +1,4 @@
-# SageMaker Setup
+# SageMaker AI - Studio Setup
 
 This process details the steps needed to launch a SageMaker Domain and Studio, and uses an Amazon Built-In Algorithm to test the environment. Specifically, the Linear Learner with MNIST Notebook is used. For additional information about getting started with SageMaker, see the <a href="https://sagemaker-examples.readthedocs.io/en/latest/intro.html">Introduction to Amazon SageMaker</a>.
 
